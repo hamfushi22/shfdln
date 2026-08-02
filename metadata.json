@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Pernikahan Fadlan & Sofi",
+  "description": "Undangan pernikahan digital interaktif Fadlan & Sofi dengan countdown, galeri, lokasi, amplop digital, dan RSVP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
